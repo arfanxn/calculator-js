@@ -1,0 +1,30 @@
+body {
+    background: #4ECDC4;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #556270, #4ECDC4);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #556270, #4ECDC4);
+    height: 100vh;
+}
+
+.wrap-calc {
+    background: rgba(0, 0, 0, 0.60);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(5.0px);
+    -webkit-backdrop-filter: blur(5.0px);
+    border-radius: 0px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    height: 100%;
+}
+
+.wrap-btn-calc>button {
+    height: 70px;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+.wrap-output-calc {
+    background-color: transparent;
+    height: 80px;
+}
