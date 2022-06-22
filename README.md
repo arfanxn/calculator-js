@@ -1,5 +1,2 @@
 # CalculatorJS
-my newbie calculator project , with bootstrap and a little bit jquery  
-
-
-update 1 
+My mewbie Calculator Web App , Built with Bootstrap and a little bit JQuery  
